@@ -1,3 +1,5 @@
+Following a React Crash Course tutorial by Brad Traversy: 
+https://www.youtube.com/watch?v=sBws8MSXN7A
 https://spencerwrong.github.io/learn_react/
 
 ###
